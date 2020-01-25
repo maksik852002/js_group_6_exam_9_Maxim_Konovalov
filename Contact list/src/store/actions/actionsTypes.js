@@ -1,0 +1,13 @@
+export const CONTACT_REQUEST = "CONTACT_REQUEST";
+export const CONTACT_SUCCESS = "CONTACT_SUCCESS";
+export const CONTACT_FAILURE = "CONTACT_FAILURE";
+
+export const FORM_REQUEST = "FORM_REQUEST";
+export const FORM_SUCCESS = "FORM_SUCCESS";
+export const FORM_FAILURE = "FORM_FAILURE";
+
+export const VALUE_CHANGE = "VALUE_CHANGE";
+export const VALUE_CLEAR = "VALUE_CLEAR";
+
+export const MODAL_SHOW = 'MODAL_SHOW';
+export const MODAL_CLOSE = 'MODAL_CLOSE';
